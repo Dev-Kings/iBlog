@@ -11,3 +11,5 @@ Features addressed include :
     5. File uploading...
     
 Register if not yet, then take a ride.
+
+![register](https://user-images.githubusercontent.com/31953762/164982812-8d168c62-5894-4234-aa97-a7580d53ddd8.PNG)
